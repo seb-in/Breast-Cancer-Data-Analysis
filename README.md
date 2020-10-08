@@ -1,4 +1,4 @@
-<h2 align=center>Tumor Diagnosis (Part 2): Feature Selection and Classification</h2>
+<h2 align=center>Tumor Diagnosis: Feature Selection and Classification</h2>
 <img src="https://storage.googleapis.com/kaggle-datasets-images/180/384/3da2510581f9d3b902307ff8d06fe327/dataset-cover.jpg">
 
 
